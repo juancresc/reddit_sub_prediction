@@ -3,3 +3,4 @@ venv/
 *.csv
 .DS_Store
 chromedriver
+nltk-data/
